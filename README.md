@@ -17,5 +17,6 @@ Scaringella, N., Zoia, G., & Mlynek, D. (2006). Automatic genre classification o
 Choi, K., Fazekas, G., Sandler, M., & Cho, K. (2017). Convolutional recurrent neural networks for music classification. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 Dieleman, S., & Schrauwen, B. (2014). End-to-end learning for music audio. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
-Initial Data Pre-processing Cide from GTZAN Genre Dataset:
-https://colab.research.google.com/drive/1wVrtViSjhaFzG5J309zRQYwu5tGuJek9?usp=sharing (On progress)
+Initial Data Pre-processing Code from GTZAN Genre Dataset: uploaded on Guthub (On Progress)
+
+
