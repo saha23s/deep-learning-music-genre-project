@@ -1,6 +1,15 @@
 # Genre Classification
 
-Team Members: Kexin and Sulagna
+Team Members: Sulagna
+
+Instructions on how to run the code:
+1. Download the GTZAN dataset from the following link: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+2. Extract the dataset and place it in the 'Data' folder in the same directory as the notebook "MusicGenreClassification_Model_Creation.ipynb"
+3. Run the code cells in the notebook to extract features from raw audio files and train the models.
+4. The code cells are divided into two parts: Feature Extraction from Scratch and Feature Extraction Using Pre-trained VGGish Model.
+5. The Feature Extraction from Scratch part extracts features from raw audio files and trains the models using LSTM, CNN, and Transformer architectures.
+6. The Feature Extraction Using Pre-trained VGGish Model part extracts features using the pre-trained VGGish model and trains the models using LSTM, CNN, and Transformer architectures.
+7. The results of the models are displayed at the end of each part.
 
 Abstract:
 
