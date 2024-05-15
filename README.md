@@ -1,6 +1,6 @@
-# Genre Classification
+# Music Genre Classification: comparing impact of feature extraction on the model prediction
 
-Team Members: Sulagna
+Author: Sulagna Saha
 
 Instructions on how to run the code:
 1. Download the GTZAN dataset from the following link: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
@@ -13,19 +13,25 @@ Instructions on how to run the code:
 
 Abstract:
 
-Our project proposes the implementation of a deep learning model for music genre classification. The task of music genre classification, as defined by Tzanetakis and Cook, aims to accurately predict the genre of a given piece of music. Such a task could enhance various music-related applications, including music recommendation systems and search engines, which rely on precise genre labeling.
+This project proposes the implementation of a deep learning model for music genre classification, mainly to observe how proper feature extraction can impact the model accuracy. The task of music genre classification, as defined by Tzanetakis and Cook, aims to accurately predict the genre of a given piece of music. Such a task could enhance various music-related applications, including music recommendation systems and search engines, which rely on precise genre labeling. Accurate genre classification could also assist in music analysis and understanding the characteristics of different music genres. This project was specifically designed to 
+Extracting features from scratch and also using a pre-trained model. 
+Using current deep learning techniques: LSTM, CNN and Transformer model and comparing their predictions
 
-Accurate genre classification could also assist in music analysis and understanding the characteristics of different music genres. The project might employ deep learning methods, which have shown promise in automatically learning features and patterns in audio data. These methods could potentially improve the accuracy of genre classification.
-
-However, the specific deep learning techniques and architectures to be used will be determined as the project progresses, taking into consideration the latest advancements and best practices in the field.
 
 References:
 
-Tzanetakis, G., & Cook, P. (2002). Musical genre classification of audio signals. IEEE Transactions on speech and audio processing.
-Scaringella, N., Zoia, G., & Mlynek, D. (2006). Automatic genre classification of music content: a survey. IEEE Signal Processing Magazine.
-Choi, K., Fazekas, G., Sandler, M., & Cho, K. (2017). Convolutional recurrent neural networks for music classification. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
-Dieleman, S., & Schrauwen, B. (2014). End-to-end learning for music audio. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+[1] GTZAN Dataset (https://datasets.activeloop.ai/docs/ml/datasets/gtzan-genre-dataset/)
+[2] VGGish Model (https://apple.github.io/turicreate/docs/userguide/sound_classifier/how-it-works.html)
+[3] Bhavesh Mittal. "Music Genre Classification using VGGish CNN." (https://www.kaggle.com/code/bhaveshmittal/music-genre-classification-vggish-cnn/notebook)
+[4] T. L. Li, A. B. Chan, and A. Chun, “Automatic musical pattern feature
+extraction using convolutional neural network,” in Proc. Int. Conf. Data
+Mining and Applications, 2010
+[5] D. Mingwen, “Convolutional Neural Network Achieves Human-level Accuracy in Music Genre Classification”, 2018
+[6] Tzanetakis, G., & Cook, P. (2002). Musical genre classification of audio signals. IEEE Transactions on speech and audio processing. Scaringella, N., Zoia, G., & Mlynek, D. (2006)
+[7] Automatic genre classification of music content: a survey. IEEE Signal Processing Magazine. Choi, K., Fazekas, G., Sandler, M., & Cho, K. (2017)
+[8] Convolutional recurrent neural networks for music classification. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+[9] Dieleman, S., & Schrauwen, B. (2014). End-to-end learning for music audio. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
-Initial Data Pre-processing Code from GTZAN Genre Dataset: uploaded on Guthub (On Progress)
+
 
 
