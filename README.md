@@ -14,8 +14,10 @@ Instructions on how to run the code:
 Abstract:
 
 This project proposes the implementation of a deep learning model for music genre classification, mainly to observe how proper feature extraction can impact the model accuracy. The task of music genre classification, as defined by Tzanetakis and Cook, aims to accurately predict the genre of a given piece of music. Such a task could enhance various music-related applications, including music recommendation systems and search engines, which rely on precise genre labeling. Accurate genre classification could also assist in music analysis and understanding the characteristics of different music genres. This project was specifically designed to 
-Extracting features from scratch and also using a pre-trained model. 
-Using current deep learning techniques: LSTM, CNN and Transformer model and comparing their predictions
+
+- Extracting features from scratch and also using a pre-trained model.
+  
+- Using current deep learning techniques: LSTM, CNN and Transformer model and comparing their predictions
 
 
 References:
