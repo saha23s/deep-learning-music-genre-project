@@ -21,16 +21,22 @@ Using current deep learning techniques: LSTM, CNN and Transformer model and comp
 References:
 
 [1] GTZAN Dataset (https://datasets.activeloop.ai/docs/ml/datasets/gtzan-genre-dataset/)
+
 [2] VGGish Model (https://apple.github.io/turicreate/docs/userguide/sound_classifier/how-it-works.html)
+
 [3] Bhavesh Mittal. "Music Genre Classification using VGGish CNN." (https://www.kaggle.com/code/bhaveshmittal/music-genre-classification-vggish-cnn/notebook)
-[4] T. L. Li, A. B. Chan, and A. Chun, “Automatic musical pattern feature
-extraction using convolutional neural network,” in Proc. Int. Conf. Data
-Mining and Applications, 2010
+
+[4] T. L. Li, A. B. Chan, and A. Chun, “Automatic musical pattern feature extraction using convolutional neural network,” in Proc. Int. Conf. Data Mining and Applications, 2010
+
 [5] D. Mingwen, “Convolutional Neural Network Achieves Human-level Accuracy in Music Genre Classification”, 2018
-[6] Tzanetakis, G., & Cook, P. (2002). Musical genre classification of audio signals. IEEE Transactions on speech and audio processing. Scaringella, N., Zoia, G., & Mlynek, D. (2006)
+
+[6] Tzanetakis, G., & Cook, P. (2002). Musical genre classification of audio signals. IEEE Transactions on speech and audio processing. (2006)
+
 [7] Automatic genre classification of music content: a survey. IEEE Signal Processing Magazine. Choi, K., Fazekas, G., Sandler, M., & Cho, K. (2017)
-[8] Convolutional recurrent neural networks for music classification. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-[9] Dieleman, S., & Schrauwen, B. (2014). End-to-end learning for music audio. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
+[8] Convolutional recurrent neural networks for music classification. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2017)
+
+[9] Dieleman, S., & Schrauwen, B. End-to-end learning for music audio. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2014)
 
 
 
