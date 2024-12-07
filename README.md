@@ -1,6 +1,6 @@
 # Music Genre Classification: comparing impact of feature extraction on the model prediction
 
-Presentation: https://docs.google.com/presentation/d/1HK2uQfzn6I3rcOjczdGtCS_dwhbFI-E17oWCMdf1ip4/edit?usp=sharing [On Progress]
+Presentation: https://docs.google.com/presentation/d/1HK2uQfzn6I3rcOjczdGtCS_dwhbFI-E17oWCMdf1ip4/edit?usp=sharing
 Author: Sulagna Saha
 
 Instructions on how to run the code:
